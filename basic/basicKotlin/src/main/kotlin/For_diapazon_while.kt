@@ -37,4 +37,17 @@
     for (i in range2 step 30){
         println("Реклама $i")
     }
+
+    // todo while and doWhile
+
+    var counter  = 5;
+
+    while (counter > 0){
+        println("Реклама закроится через ${counter--}")
+        Thread.sleep(1000)
+    }
+    do {
+        println("Реклама закроится через ${counter--}")
+        Thread.sleep(1000)
+    }while (false)
 }
