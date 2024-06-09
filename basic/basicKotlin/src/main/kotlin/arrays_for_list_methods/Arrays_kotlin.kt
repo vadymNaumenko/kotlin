@@ -1,3 +1,5 @@
+package arrays_for_list_methods
+
 fun main(){
     val ingredient1 ="яйцо"
     val ingredient2 ="помидор"

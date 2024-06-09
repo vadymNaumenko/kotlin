@@ -1,4 +1,6 @@
-﻿fun main(){
+﻿package arrays_for_list_methods
+
+fun main(){
 
     // диапазогн (интервалы)
 
