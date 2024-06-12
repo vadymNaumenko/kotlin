@@ -8,6 +8,5 @@ fun main() {
     shuttle.prepareForLanding()
     shuttle.startShooting()
     shuttle.reloadGuns()
-    println(shuttle.demage)
 
 }
